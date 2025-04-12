@@ -15,7 +15,8 @@ Untuk method pada kelas yaitu getter dan setter untuk tiap atribut.
 ## Dokumentasi
 
 
-Uploading Flappy Bird 2025-04-13 01-04-49.mp4…
+https://github.com/user-attachments/assets/8eb1e463-9ec1-4132-85b9-b3a8484c1c9f
+
 
 
   
